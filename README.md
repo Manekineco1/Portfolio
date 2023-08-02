@@ -1,7 +1,7 @@
 # Portfolio
 Some of the projects completed by me
 
-|#| First Header  | Second Header | Second Header |
+|#|Project name   | Description   | Second Header |
 |-| ------------- | ------------- | ------------- |
-|1| Content Cell  | Content Cell  | Content Cell  |
+|1|[Tariff_recommendations_for_telecom_customers](https://github.com/Manekineco1/Portfolio/tree/main/Tariff_recommendations_for_telecom_customers)  | Content Cell  | Content Cell  |
 |2| Content Cell  | Content Cell  | Content Cell  |
