@@ -5,3 +5,7 @@ Some of the projects completed by me
 |-| ------------- | ------------- | ------------- |
 |1|[Tariff_recommendations_for_telecom_customers](https://github.com/Manekineco1/Portfolio/tree/main/Tariff_recommendations_for_telecom_customers)  | Content Cell  | Content Cell  |
 |2| Content Cell  | Content Cell  | Content Cell  |
+|3| Content Cell  | Content Cell  | Content Cell  |
+|4| Content Cell  | Content Cell  | Content Cell  |
+|5| Content Cell  | Content Cell  | Content Cell  |
+|6| Content Cell  | Content Cell  | Content Cell  |
