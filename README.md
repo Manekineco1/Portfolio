@@ -11,4 +11,6 @@ Some of the projects completed by me
 |6|[Personal data protection](https://github.com/Manekineco1/Portfolio/tree/main/Personal_data_protection) | Content Cell  | Content Cell  |
 |7|[Toxic comments](https://github.com/Manekineco1/Portfolio/tree/main/Toxic_comments) | Content Cell  | Content Cell  |
 |8|[Customers age detection](https://github.com/Manekineco1/Portfolio/tree/main/Customers_age_detection) | Content Cell  | Content Cell  |
+|9|[Customer churn telecom](https://github.com/Manekineco1/Portfolio/tree/main/Customer_churn_telecom)  | Content Cell  | Content Cell  |
+|9| Content Cell  | Content Cell  | Content Cell  |
 |9| Content Cell  | Content Cell  | Content Cell  |
