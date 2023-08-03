@@ -9,6 +9,6 @@ Some of the projects completed by me
 |4|[Choice of location for well](https://github.com/Manekineco1/Portfolio/tree/main/Choice_of_location_for_well)  | Content Cell  | Content Cell  |
 |5|[Determining cars cost](https://github.com/Manekineco1/Portfolio/tree/main/Determining_cars_cost)  | Content Cell  | Content Cell  |
 |6|[Personal data protection](https://github.com/Manekineco1/Portfolio/tree/main/Personal_data_protection) | Content Cell  | Content Cell  |
-|7|Toxic comments](https://github.com/Manekineco1/Portfolio/tree/main/Toxic_comments) | Content Cell  | Content Cell  |
+|7|[Toxic comments](https://github.com/Manekineco1/Portfolio/tree/main/Toxic_comments) | Content Cell  | Content Cell  |
 |8| Content Cell  | Content Cell  | Content Cell  |
 |9| Content Cell  | Content Cell  | Content Cell  |
